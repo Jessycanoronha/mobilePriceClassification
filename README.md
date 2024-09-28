@@ -1,6 +1,6 @@
-# WaiterApp
+# Mobile Price Classification
 
-O WaiterApp é uma aplicação focada em classificar dispositivos móveis com base em suas especificações técnicas. Utilizando um formulário interativo, os usuários podem inserir dados como potência da bateria, velocidade do relógio, câmera frontal, memória interna, número de núcleos, câmera principal, RAM e tempo de conversa para prever a faixa de preço do celular.
+O  Mobile Price Classification é uma aplicação focada em classificar dispositivos móveis com base em suas especificações técnicas. Utilizando um formulário interativo, os usuários podem inserir dados como potência da bateria, velocidade do relógio, câmera frontal, memória interna, número de núcleos, câmera principal, RAM e tempo de conversa para prever a faixa de preço do celular.
 
 ## Stack
 
@@ -32,7 +32,7 @@ Sinta-se à vontade para contribuir com novas funcionalidades, correções de bu
 4. Faça push para a branch (`git push origin feature/nova-feature`).
 5. Crie um novo Pull Request.
 
-![WaiterApp](mobile_price.gif)
+![Mobile Price Classification](mobile_price.gif)
 
 ```
 Feito por Jéssyca Noronha ❤️ 🤘🏿
