@@ -1,0 +1,10 @@
+Flask
+pydantic
+scikit-learn
+numpy
+joblib
+pytest
+pandas
+pydantic
+Flask-Cors
+flask_openapi3
